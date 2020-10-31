@@ -1,4 +1,4 @@
-# moth-kight-syntax theme
+# moth-light-syntax theme
 
 A simple syntax theme for Atom, part of Moth's [FONC YOU](https://germanponte.com/moth/foncyou/) collection.
 
