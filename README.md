@@ -4,7 +4,8 @@ A simple syntax theme for Atom, part of Moth's [FONC YOU](https://germanponte.co
 
 Clear as truisms, simple as hammers, functional as thumbs, Moth Light gets the job done with no frills, little thrills and a touch of minimalist elegance.
 
-![Moth Light Screenshot](moth_light_ss01.png)
+![Moth Light Screenshot](https://user-images.githubusercontent.com/73740741/97789001-7de72000-1bbd-11eb-9838-7e2bb377ca52.png)
+
 `Font: Inconsolata / UI: One Light / CSS colors: highlight-colors by brumm (not part of the theme)`
 
 Optimal for everyday work in well illuminated environments.
