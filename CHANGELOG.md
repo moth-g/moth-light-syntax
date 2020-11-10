@@ -1,3 +1,7 @@
+## 0.2.2 - Bug fix
+
++ Fatal typo: Missing bracket
+
 ## 0.2.2 - First Release
 
 + Support for Atom's core language packages:
