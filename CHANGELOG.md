@@ -1,4 +1,4 @@
-## 0.2.2 - Bug fix
+## 0.2.3 - Bug fix
 
 + Fatal typo: Missing bracket
 
